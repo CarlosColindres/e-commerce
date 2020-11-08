@@ -15,6 +15,10 @@
 @import './sign-in-page/form-input.styles.scss';
 @import './sign-in-page/sign-in';
 
-@import 'custom-button';
+@import 'custom-button.styles.scss';
 
-@import 'sign-up'
+@import 'sign-up';
+
+@import 'cart-icon.styles.scss';
+
+@import 'cart-dropdown.styles.scss';
