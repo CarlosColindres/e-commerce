@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import CollectionPreview from "../components/CollectionPreview";
-import SHOP_DATA from "../data/shop.data";
+import {SHOP_DATA} from "../data/shop.data";
 
 export default class ShopPage extends Component {
   state = {
